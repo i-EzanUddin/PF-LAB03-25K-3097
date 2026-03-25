@@ -3,7 +3,7 @@ This is my first Git-Hub task.
 
 <h1>My-Self</h1>
 
-My name is **Syed Ezan Uddin**. I completed my inter from Intermediate Board of Karachi in 2025 and my **Grade** was ***A***. Currently doing my bachelors from ***FAST-NU*** as a **Software Engineer**.
+My name is **Syed Ezan Uddin**. I completed my inter from Intermediate Board of Karachi in 2025 and my **Grade** was ***A***, currently doing my bachelors from ***FAST-NU*** as a **Software Engineer**.
 
 <h1>Interest in Programming</h1>
 
